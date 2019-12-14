@@ -8,7 +8,7 @@ public class hello
 		
 		for (int i=0;i<10;i++)
 		{
-			System.out.println("MALA WACHWA RE KONI"+i);
+			System.out.println("Inse MALA WACHWA RE KONI"+i);
 		}
 	}
 }
